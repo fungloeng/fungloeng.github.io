@@ -1,6 +1,4 @@
-# # main links links
-# main:
-#   - title: "About Me"
-#     url: "/#about-me"
-
+main:
+  - title: "CV"
+    url: "/resume_fungloeng.pdf"
 
